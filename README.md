@@ -18,5 +18,5 @@ About me
 
 ## 📊 My activities
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cavram1&theme=vue-dark&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cavram1&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cavram1&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stat)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cavram1&show_icons=true&theme=dark&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cavram1&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stat)
